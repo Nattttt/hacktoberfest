@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Natalia Reyes](https://github.com/Nattttt)
+- Place: Cucuta, Norte de Santander
+- Bio: Frontend developer
+- Github: [Nattttt](https://github.com/Nattttt)
